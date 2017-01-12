@@ -8,4 +8,4 @@ Insert your players names and teams
 
 
 
-NOTE: Free to use, Property of JDenhartogh\n
+NOTE: Free to use, Property of JDenhartogh
